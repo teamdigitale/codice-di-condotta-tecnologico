@@ -1,0 +1,14 @@
+Cloud first, utilizzare le risorse del cloud della PA
+=====================================================
+
+\ *Cloud First. Utilizzare sempre prima le risorse del*
+\   `Cloud della PA <https://cloud.italia.it/projects/cloud-italia-docs/it/latest/>`__  \ *come indicato dal Piano Triennale in materia 
+di cloud*\ .  Inserire nel capitolato l'obbligo di utilizzare 
+le risorse qualificate nell’ambito del Cloud della PA, 
+prediligendo i servizi SaaS dei fornitori qualificati, 
+ogni qualvolta viene sviluppato un nuovo servizio. Qualora 
+i servizi SaaS esistenti nell’ambito del Cloud della PA 
+non siano rispondenti alle esigenze del progetto, prevedere 
+l’utilizzo di servizi infrastrutturali IaaS e PaaS del 
+Cloud della PA; inserire nel capitolato l'obbligo di supporto 
+per il protocollo di rete IPv6.

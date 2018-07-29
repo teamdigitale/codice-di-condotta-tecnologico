@@ -1,0 +1,12 @@
+Sviluppare i servizi in maniera agile
+=====================================
+
+\ *Organizzare la progettazione e lo sviluppo dei servizi 
+digitali  adottando ove possibile processi incrementali 
+per il rilascio,  sfruttando  interazioni  brevi e frequenti:*\ 
+il primo rilascio del servizio deve prevedere il numero 
+minimo di funzionalità essenziali utili a raccogliere informazioni 
+dagli utilizzatori e aggiustare il tiro delle fasi successive.
+Ogni rilascio incrementale deve essere stato testato da 
+utenti veri e documentato.I capitolati di gara devono prevedere 
+l’applicazione di tale principio.

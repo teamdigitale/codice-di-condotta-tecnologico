@@ -1,0 +1,20 @@
+Valutare il debito tecnologico ed integrare le nuove tecnologie
+===============================================================
+
+
+\ *La tecnologia sviluppata o acquistata deve funzionare
+con il resto delle tecnologie, i processi e le infrastrutture
+esistenti nell’organizzazione e deve poter adattarsi alle
+esigenze future.*\  Eseguire una valutazione del \ *debito
+tecnologico*\ \ [#F1]_\  presente nell’organizzazione e
+pianificare la sostituzione delle tecnologie ormai obsolete
+per le quali il costo di manutenzione eccede il costo di
+sostituzione; inserire nel capitolato l'obbligo di utilizzare
+tecnologie aperte affermate sul mercato e supportate  dalla
+presenza di una ampia comunità di sviluppatori e utilizzatori
+;
+
+
+.. rubric:: Footnotes
+
+.. [#f1]  Per debito tecnologico si intende la sommatoria di tutte le inefficienze dovute a processi duplicati e lavoro superfluo causato all’interno di un processo da parte dell'infrastruttura tecnologica perchè obsoleta  o inadeguata.

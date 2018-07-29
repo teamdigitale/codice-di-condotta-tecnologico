@@ -1,0 +1,12 @@
+Utilizzare standard aperti per garantire l'interoperabilita delle tecnologie
+============================================================================
+
+\ *Usare standard aperti per garantire che la tecnologia 
+sviluppata funzioni e comunichi con altre tecnologie e 
+possa essere facilmente aggiornata e ampliata*\ . Inserire 
+nel capitolato l'obbligo di utilizzare standard e formati 
+aperti per file e protocolli di comunicazione, l'obbligo 
+di implementare le funzionalità in forma di API documentate 
+secondo le  `linee guida di interoperabilità <http://lg-modellointeroperabilita.readthedocs.io/it/latest/>`__ , l'obbligo di fornire funzionalità di esportazione 
+di tutti i dati in formati aperti, l’obbligo di documentare 
+la futura procedura di migrazione verso un prodotto alternativo.

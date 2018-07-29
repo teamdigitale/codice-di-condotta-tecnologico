@@ -1,0 +1,11 @@
+Partire dalle esigenze degli utenti
+===================================
+
+\ *Partire sempre dalle esigenze degli utenti*\ :  inserire 
+nel capitolato di gara una  specifica richiesta per seguire 
+le  `linee guida di design
+<https://design-italia.readthedocs.io/it/stable/doc/introduzione-linee-guida-design.html>`__
+e i processi di sviluppo di  `Designers Italia
+<https://designers.italia.it/>`__  nella realizzazione 
+dei servizi, seguendo un percorso di User Research, Service 
+Design, User Interface Design e Content Design.

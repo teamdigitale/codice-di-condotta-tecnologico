@@ -1,0 +1,11 @@
+Pubblicare il codice sorgente con licenze Open Source
+=====================================================
+
+\ *Pubblicare il codice con licenze open source per migliorare 
+la trasparenza, la flessibilità e la responsabilità*\ :
+seguire le  `linee guida per l'acquisizione e il riuso del software <http://lg-acquisizione-e-riuso-software-per-la-pa.readthedocs.io/it/latest/>`__ .  Inserire nel capitolato l'obbligo di 
+rilasciare alla pubblica amministrazione la proprietà intellettuale 
+del software che viene sviluppato ad hoc, incluse le pagine 
+dei siti web, e di pubblicare tutto il codice sotto licenza 
+aperta, registrandolo su  `Developers Italia <https://developers.italia.it>`__  con i processi indicati nelle 
+linee guida.
