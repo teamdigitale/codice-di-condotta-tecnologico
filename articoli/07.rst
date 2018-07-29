@@ -1,5 +1,5 @@
-Cloud first, utilizzare le risorse del cloud della PA
-=====================================================
+Utilizzare risorse e servizi del Cloud della PA
+===============================================
 
 \ *Cloud First. Utilizzare sempre prima le risorse del*
 \   `Cloud della PA <https://cloud.italia.it/projects/cloud-italia-docs/it/latest/>`__  \ *come indicato dal Piano Triennale in materia 
