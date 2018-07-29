@@ -1,0 +1,17 @@
+Condividere e riutilizzare dati e tecnologie
+============================================
+
+\ *Promuovere buone pratiche ed evitare duplicazione 
+di sforzi condividendo e riutilizzando servizi, dati e 
+componenti software*\ . Inserire nel capitolato l'obbligo 
+di integrare le piattaforme abilitanti come SPID, pagoPA 
+e ANPR, incluse le piattaforme condivise tipiche del dominio 
+nel quale si opera, come ad esempio il Fascicolo Sanitario 
+Elettronico (FSE), nel caso di una PA dell'ecosistema sanitario;
+inserire nel capitolato l'obbligo di riutilizzare software,
+servizi e API messi a disposizione da altre PA evitando 
+ove possibile di re-implementare funzionalità che sono 
+già state implementate da altri; nell’eventualità di sviluppo 
+di nuovi servizi, richiedere che l’applicativo sia sviluppato 
+tenendo presente che possa essere utilizzato da altre 
+PA.

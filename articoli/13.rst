@@ -1,0 +1,9 @@
+Automatizzare i processi
+========================
+
+\ *Automatizzare i processi.*\  È importante ridurre 
+il più possibile l’intervento manuale nelle attività ricorrenti 
+e non qualificate (data entry, etc.), automatizzando i 
+processi necessari all’erogazione di un servizio e utilizzando 
+l’intervento umano per il controllo della qualità e il 
+monitoraggio.

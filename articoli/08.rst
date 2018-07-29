@@ -1,0 +1,10 @@
+Proteggere i dati e rendere sicuri i servizi
+============================================
+
+\ *Mantenere sistemi e dati al sicuro rispettando i livelli 
+minimi di sicurezza*\ . Inserire nel capitolato l'obbligo 
+di rispettare le  `Misure Minime di Sicurezza <https://www.agid.gov.it/it/sicurezza/misure-minime-sicurezza-ict>`__ , così come previsto dalle linee guida 
+di sicurezza del Piano Triennale; inserire nel contratto 
+clausole di manutenzione che impegnino il fornitore a rilasciare 
+patch di sicurezza che verranno scoperte anche al termine 
+del contratto.

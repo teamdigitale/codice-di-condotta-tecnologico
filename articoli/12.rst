@@ -1,0 +1,12 @@
+Aumentare la qualità e il riuso degli Open Data
+===============================================
+
+\ *Studiare e implementare soluzioni per minimizzare 
+la raccolta e il riutilizzo dei dati per evitare la duplicazione 
+di set di dati*\ . Inserire nel capitolato l'obbligo di 
+utilizzare i dataset rilasciati in open data da altre PA,
+l'obbligo di utilizzare i vocabolari controllati e le 
+ontologie descritti nel Piano Triennale, l'obbligo di rilasciare 
+in open data tutti i dati prodotti dagli applicativi per 
+i quali la pubblicazione non sia esplicitamente vietata 
+per legge.
