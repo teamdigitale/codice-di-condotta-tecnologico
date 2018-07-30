@@ -4,3 +4,6 @@ Individuare le giuste competenze necessarie
 \ *Definire le competenze e i profili necessari per lo 
 sviluppo dei progetti*\  valorizzando tutte le professionalità
 e seguendo le  `linee guida per la qualità delle competenze digitali nelle professionalità ICT <http://open.gov.it/wp-content/uploads/2017/05/professioni-ICT.pdf>`__  .
+
+.. discourse::
+   :topic_identifier: 4138
