@@ -15,3 +15,6 @@ già state implementate da altri; nell’eventualità di sviluppo
 di nuovi servizi, richiedere che l’applicativo sia sviluppato 
 tenendo presente che possa essere utilizzato da altre 
 PA.
+
+.. discourse::
+   :topic_identifier: 4133
