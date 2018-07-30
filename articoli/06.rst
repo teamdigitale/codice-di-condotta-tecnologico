@@ -10,3 +10,6 @@ di implementare le funzionalità in forma di API documentate
 secondo le  `linee guida di interoperabilità <http://lg-modellointeroperabilita.readthedocs.io/it/latest/>`__ , l'obbligo di fornire funzionalità di esportazione 
 di tutti i dati in formati aperti, l’obbligo di documentare 
 la futura procedura di migrazione verso un prodotto alternativo.
+
+.. discourse::
+   :topic_identifier: 4128
