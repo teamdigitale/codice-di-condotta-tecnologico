@@ -6,3 +6,6 @@ integrando la privacy come parte essenziale del sistema*
 \ . Inserire nel capitolato l'obbligo di rispettare le 
 prescrizioni della normativa italiana ed europea sulla 
 protezione dei dati personali (GDPR).
+
+.. discourse::
+   :topic_identifier: 4131
