@@ -9,3 +9,6 @@ del software che viene sviluppato ad hoc, incluse le pagine
 dei siti web, e di pubblicare tutto il codice sotto licenza 
 aperta, registrandolo su  `Developers Italia <https://developers.italia.it>`__  con i processi indicati nelle 
 linee guida.
+
+.. discourse::
+   :topic_identifier: 4126
