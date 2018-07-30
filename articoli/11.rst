@@ -18,3 +18,7 @@ presenza di una ampia comunità di sviluppatori e utilizzatori
 .. rubric:: Footnotes
 
 .. [#f1]  Per debito tecnologico si intende la sommatoria di tutte le inefficienze dovute a processi duplicati e lavoro superfluo causato all’interno di un processo da parte dell'infrastruttura tecnologica perchè obsoleta  o inadeguata.
+
+
+.. discourse::
+   :topic_identifier: 4134
