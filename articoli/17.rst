@@ -11,3 +11,6 @@ prevedere  l’obbligo di fornire una comunicazione puntuale
 e trasparente delle cause che hanno procurato il disservizio 
 producendo dei documenti di “postmortem” di dettaglio che 
 potranno essere pubblicati dalle amministrazioni.
+
+.. discourse::
+   :topic_identifier: 4140
