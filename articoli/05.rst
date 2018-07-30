@@ -5,3 +5,6 @@ Disincentivare il surplus di licenze software
 generale accordi forfettari che prevedono l’acquisizione 
 di un ingente numero di licenze al fine di ridurre gli 
 sprechi dovuti al surplus di licenze non utilizzate.
+
+.. discourse::
+   :topic_identifier: 4127
