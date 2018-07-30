@@ -8,3 +8,6 @@ di sicurezza del Piano Triennale; inserire nel contratto
 clausole di manutenzione che impegnino il fornitore a rilasciare 
 patch di sicurezza che verranno scoperte anche al termine 
 del contratto.
+
+.. discourse::
+   :topic_identifier: 4130
