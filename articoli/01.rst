@@ -9,3 +9,6 @@ e i processi di sviluppo di  `Designers Italia
 <https://designers.italia.it/>`__  nella realizzazione 
 dei servizi, seguendo un percorso di User Research, Service 
 Design, User Interface Design e Content Design.
+
+.. discourse::
+   :topic_identifier: 4123
