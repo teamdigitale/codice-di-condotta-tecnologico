@@ -6,3 +6,6 @@ siano accessibili agli utenti*\ : inserire nel capitolato
 l'obbligo di usare gli strumenti forniti da designers.italia.
 it per assicurare che i servizi siano progettati a misura 
 di cittadino,  `applicando criteri di usabilità e inclusività per aiutare le persone con disabilità. <http://design-italia.readthedocs.io/it/stable/doc/service-design/accessibilita.html>`__ 
+
+.. discourse::
+   :topic_identifier: 4125
