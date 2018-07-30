@@ -7,3 +7,6 @@ sistemi di valutazione dei progetti eseguiti così  che
 le PA possano indirizzare le proprie scelte, anche tenendo 
 conto delle recensioni di altre PA sull’operato di uno 
 specifico fornitore. 
+
+.. discourse::
+   :topic_identifier: 4139
