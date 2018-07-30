@@ -12,3 +12,6 @@ non siano rispondenti alle esigenze del progetto, prevedere
 l’utilizzo di servizi infrastrutturali IaaS e PaaS del 
 Cloud della PA; inserire nel capitolato l'obbligo di supporto 
 per il protocollo di rete IPv6.
+
+.. discourse::
+   :topic_identifier: 4129
