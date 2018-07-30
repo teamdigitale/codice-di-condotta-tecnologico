@@ -6,5 +6,8 @@ Stabilire i livelli di servizio con indicatori oggettivi e misurabili
 oggettivi e misurabili, fissando obiettivi specifici (
 SLO, Service Level Objectives) per ogni indicatore e definendo 
 penali in caso di  mancato raggiungimento degli obiettivi 
-mediante opportuni accordi (SLA, Service Level Agreement)
-. 
+mediante opportuni accordi (SLA, Service Level Agreement). 
+
+
+.. discourse::
+   :topic_identifier: 4137
