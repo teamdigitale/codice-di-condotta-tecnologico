@@ -7,3 +7,6 @@ e non qualificate (data entry, etc.), automatizzando i
 processi necessari all’erogazione di un servizio e utilizzando 
 l’intervento umano per il controllo della qualità e il 
 monitoraggio.
+
+.. discourse::
+   :topic_identifier: 4136
