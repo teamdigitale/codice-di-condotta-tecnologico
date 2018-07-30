@@ -10,3 +10,6 @@ ontologie descritti nel Piano Triennale, l'obbligo di rilasciare
 in open data tutti i dati prodotti dagli applicativi per 
 i quali la pubblicazione non sia esplicitamente vietata 
 per legge.
+
+.. discourse::
+   :topic_identifier: 4135
