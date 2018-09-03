@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "La carta dei principi per la condotta tecnologica"
+settings_project_name = "La carta dei principi tecnologici del procurement"
 settings_copyright_copyleft = 'Team per la trasformazione digitale'
 settings_editor_name = 'Team per la trasformazione digitale'
 settings_doc_version = 'version: latest'
