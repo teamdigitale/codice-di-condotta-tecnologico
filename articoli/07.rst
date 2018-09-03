@@ -1,17 +1,13 @@
-Utilizzare risorse e servizi del Cloud della PA
-===============================================
+Proteggere i dati e rendere sicuri i servizi
+============================================
 
-\ *Cloud First. Utilizzare sempre prima le risorse del*
-\   `Cloud della PA <https://cloud.italia.it/projects/cloud-italia-docs/it/latest/>`__  \ *come indicato dal Piano Triennale in materia 
-di cloud*\ .  Inserire nel capitolato l'obbligo di utilizzare 
-le risorse qualificate nell’ambito del Cloud della PA, 
-prediligendo i servizi SaaS dei fornitori qualificati, 
-ogni qualvolta viene sviluppato un nuovo servizio. Qualora 
-i servizi SaaS esistenti nell’ambito del Cloud della PA 
-non siano rispondenti alle esigenze del progetto, prevedere 
-l’utilizzo di servizi infrastrutturali IaaS e PaaS del 
-Cloud della PA; inserire nel capitolato l'obbligo di supporto 
-per il protocollo di rete IPv6.
+\ *Mantenere sistemi e dati al sicuro rispettando i livelli 
+minimi di sicurezza*\ . Inserire nel capitolato l'obbligo 
+di rispettare le  `Misure Minime di Sicurezza <https://www.agid.gov.it/it/sicurezza/misure-minime-sicurezza-ict>`__ , così come previsto dalle linee guida 
+di sicurezza del Piano Triennale; inserire nel contratto 
+clausole di manutenzione che impegnino il fornitore a rilasciare 
+patch di sicurezza che verranno scoperte anche al termine 
+del contratto.
 
 .. discourse::
-   :topic_identifier: 4129
+   :topic_identifier: 4130

@@ -1,15 +1,12 @@
-Aumentare la qualità e il riuso degli Open Data
-===============================================
+Ridisegnare e automatizzare i processi
+======================================
 
-\ *Studiare e implementare soluzioni per minimizzare 
-la raccolta e il riutilizzo dei dati per evitare la duplicazione 
-di set di dati*\ . Inserire nel capitolato l'obbligo di 
-utilizzare i dataset rilasciati in open data da altre PA,
-l'obbligo di utilizzare i vocabolari controllati e le 
-ontologie descritti nel Piano Triennale, l'obbligo di rilasciare 
-in open data tutti i dati prodotti dagli applicativi per 
-i quali la pubblicazione non sia esplicitamente vietata 
-per legge.
+\ *Ridisegnare i processi automatizzando il lavoro ripetitivo.*\È
+necessario ridisegnare e ripensare i processi rendendoli nativamente digitali,
+ridurre il più possibile l’intervento manuale nelle attività ricorrenti e non
+qualificate (data entry, etc.), automatizzando i processi necessari
+all’erogazione di un servizio e utilizzando l’intervento umano per il controllo
+della qualità e il monitoraggio.
 
 .. discourse::
-   :topic_identifier: 4135
+   :topic_identifier: 4136

@@ -1,12 +1,16 @@
-Recensire l'operato dei fornitori
-=================================
+Pubblicare i documenti di postmortem per migliorare qualità e trasparenza
+=========================================================================
 
-\ *Introdurre sistemi di valutazione dei progetti ex-
-post*\ . Nelle clausole dei contratti è necessario prevedere 
-sistemi di valutazione dei progetti eseguiti così  che 
-le PA possano indirizzare le proprie scelte, anche tenendo 
-conto delle recensioni di altre PA sull’operato di uno 
-specifico fornitore. 
+\ *Pubblicare i documenti di*\   `postmortem <https://medium.com/team-per-la-trasformazione-digitale/documento-postmortem-tecnologia-pubblica-amministrazione-cdb5c7c73728>`__  \ *quando si verifica 
+un disservizio evidenziando le cause principali e le attività
+intraprese per evitare che riaccada.*\  Incidenti ed errori 
+sono all’ordine del giorno in ambito tecnologico ed  è 
+necessario apprendere da essi per  evitare che riaccadano 
+in futuro.  Nei contratti con i fornitori  è necessario 
+prevedere  l’obbligo di fornire una comunicazione puntuale 
+e trasparente delle cause che hanno procurato il disservizio 
+producendo dei documenti di “postmortem” di dettaglio che 
+potranno essere pubblicati dalle amministrazioni.
 
 .. discourse::
-   :topic_identifier: 4139
+   :topic_identifier: 4140

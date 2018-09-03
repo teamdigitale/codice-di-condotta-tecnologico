@@ -1,24 +1,15 @@
-Valutare il debito tecnologico ed integrare le nuove tecnologie
-===============================================================
+Aumentare la qualità e il riuso degli Open Data
+===============================================
 
-
-\ *La tecnologia sviluppata o acquistata deve funzionare
-con il resto delle tecnologie, i processi e le infrastrutture
-esistenti nell’organizzazione e deve poter adattarsi alle
-esigenze future.*\  Eseguire una valutazione del \ *debito
-tecnologico*\ \ [#F1]_\  presente nell’organizzazione e
-pianificare la sostituzione delle tecnologie ormai obsolete
-per le quali il costo di manutenzione eccede il costo di
-sostituzione; inserire nel capitolato l'obbligo di utilizzare
-tecnologie aperte affermate sul mercato e supportate  dalla
-presenza di una ampia comunità di sviluppatori e utilizzatori
-;
-
-
-.. rubric:: Footnotes
-
-.. [#f1]  Per debito tecnologico si intende la sommatoria di tutte le inefficienze dovute a processi duplicati e lavoro superfluo causato all’interno di un processo da parte dell'infrastruttura tecnologica perchè obsoleta  o inadeguata.
-
+\ *Studiare e implementare soluzioni per minimizzare 
+la raccolta e facilitare il riutilizzo dei dati per evitare la duplicazione 
+di di dati*\ . Inserire nel capitolato l'obbligo di 
+utilizzare i dataset rilasciati in open data da altre PA,
+l'obbligo di utilizzare i vocabolari controllati e le 
+ontologie descritti nel Piano Triennale, l'obbligo di rilasciare 
+in open data tutti i dati prodotti dagli applicativi per 
+i quali la pubblicazione non sia esplicitamente vietata 
+per legge.
 
 .. discourse::
-   :topic_identifier: 4134
+   :topic_identifier: 4135

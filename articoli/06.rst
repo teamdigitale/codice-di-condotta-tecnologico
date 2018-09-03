@@ -1,15 +1,17 @@
-Utilizzare standard aperti per garantire l'interoperabilita delle tecnologie
-============================================================================
+Utilizzare risorse e servizi del Cloud della PA
+===============================================
 
-\ *Usare standard aperti per garantire che la tecnologia 
-sviluppata funzioni e comunichi con altre tecnologie e 
-possa essere facilmente aggiornata e ampliata*\ . Inserire 
-nel capitolato l'obbligo di utilizzare standard e formati 
-aperti per file e protocolli di comunicazione, l'obbligo 
-di implementare le funzionalità in forma di API documentate 
-secondo le  `linee guida di interoperabilità <http://lg-modellointeroperabilita.readthedocs.io/it/latest/>`__ , l'obbligo di fornire funzionalità di esportazione 
-di tutti i dati in formati aperti, l’obbligo di documentare 
-la futura procedura di migrazione verso un prodotto alternativo.
+\ *Cloud First. Utilizzare sempre prima le risorse del*
+\   `Cloud della PA <https://cloud.italia.it/projects/cloud-italia-docs/it/latest/>`__  \ *come indicato dal Piano Triennale in materia 
+di cloud*\ .  Inserire nel capitolato l'obbligo di utilizzare 
+le risorse qualificate nell’ambito del Cloud della PA, 
+prediligendo i servizi SaaS dei fornitori qualificati, 
+ogni qualvolta viene sviluppato un nuovo servizio. Qualora 
+i servizi SaaS esistenti nell’ambito del Cloud della PA 
+non siano rispondenti alle esigenze del progetto, prevedere 
+l’utilizzo di servizi infrastrutturali IaaS e PaaS del 
+Cloud della PA; inserire nel capitolato l'obbligo di supporto 
+per il protocollo di rete IPv6.
 
 .. discourse::
-   :topic_identifier: 4128
+   :topic_identifier: 4129

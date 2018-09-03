@@ -9,6 +9,8 @@ e i processi di sviluppo di  `Designers Italia
 <https://designers.italia.it/>`__  nella realizzazione 
 dei servizi, seguendo un percorso di User Research, Service 
 Design, User Interface Design e Content Design.
+Se ritenuto opportuno la fase di User Research può essere condotta anche in via
+preliminare dalle amministrazioni al fine di supportare la stesura della gara.
 
 .. discourse::
    :topic_identifier: 4123
