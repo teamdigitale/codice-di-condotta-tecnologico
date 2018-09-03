@@ -1,8 +1,8 @@
-La carta dei principi per la condotta tecnologica
+La carta dei principi tecnologici del procurement
 =================================================
 
 .. highlights::
-    La carta dei principi per la condotta tecnologica definisce i criteri minimi per lo
+    La carta dei principi tecnologici del procurement definisce i principi per lo
     sviluppo di servizi digitali della Pubblica Amministrazione che:
 
         - soddisfino le esigenze degli utenti/cittadini;
@@ -11,7 +11,7 @@ La carta dei principi per la condotta tecnologica
         - siano indipendenti da singole componenti architetturali di terze parti 
         - diminuiscano le situazioni di dipendenza da un ristretto numero di fornitori (lock-in).
 
-    La carta dei principi per la  condotta tecnologica raccoglie ed estende le linee guida
+    La carta dei principi tecnologici del procurement raccoglie ed estende le linee guida
     definite dal Codice dell’Amministrazione Digitale e dal Piano Triennale per
     fornire una visione organica dei principi che la Pubblica Amministrazione e
     i suoi fornitori dovrebbero rispettare per lo sviluppo di nuovi servizi
@@ -19,7 +19,7 @@ La carta dei principi per la condotta tecnologica
 
     Se inclusa e dettagliato nell’ambito di capitolati di gara di servizi
     tecnologici della Pubblica Amministrazione e in particolare nelle gare
-    strategiche di Consip, la carta dei principi per la condotta tecnologica può migliorare il
+    strategiche di Consip, la carta dei principi tecnologici del procurement può migliorare il
     rapporto tra fornitori e la Pubblica Amministrazione.
 
 
